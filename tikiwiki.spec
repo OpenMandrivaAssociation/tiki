@@ -6,7 +6,7 @@ Release:    %mkrel 1
 Summary:    A PHP-based CMS/Groupware web application with a full Wiki environment
 License:    LGPL
 Group:      System/Servers
-URL:        http://www.tikiwiki.org
+URL:        https://www.tikiwiki.org
 Source:     http://prdownloads.sourceforge.net/%{name}/tiki-%{version}.tar.bz2
 Patch0:     tikiwiki-6.0-use-external-pear-modules.patch
 Patch1:     tikiwiki-6.0-use-external-smarty.patch
